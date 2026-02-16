@@ -1,0 +1,17 @@
+# Crowd Management System - Requirements
+# Python 3.8+ required
+
+# Core Computer Vision
+opencv-python>=4.8.0
+ultralytics>=8.0.0  # YOLOv8
+numpy>=1.24.0
+
+# Deep Learning Backend
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Video Processing
+Pillow>=10.0.0
+
+# Optional but recommended for better performance
+# opencv-contrib-python>=4.8.0  # Additional OpenCV modules
